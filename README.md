@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👻
 
 - 🌱 I’m currently learning full stack programming at the University of Washington
 - 💖 I love all things design and design systems. I hope to eventually master front-end programming.
